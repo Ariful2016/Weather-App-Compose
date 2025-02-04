@@ -82,15 +82,6 @@ The app follows a clean architecture with two main layers:
 - **Error Handling**: Graceful error handling for network calls.
 - **Modularization**: Structured code into distinct modules and packages.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Submit a pull request.
-
 
 ## Contact
 
