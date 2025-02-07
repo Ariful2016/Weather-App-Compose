@@ -69,11 +69,6 @@ The app follows a clean architecture with two main layers:
 - [Hilt](https://dagger.dev/hilt/) - For dependency injection.
 - [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - For managing asynchronous tasks.
 
-## Screenshots
-
-![Home Screen](https://via.placeholder.com/400x800?text=Home+Screen)
-![Weather Details](https://via.placeholder.com/400x800?text=Weather+Details)
-
 ## Best Practices Followed
 
 - **Separation of Concerns**: Clear distinction between UI and data handling.
