@@ -80,7 +80,7 @@ The app follows a clean architecture with two main layers:
 
 ## Contact
 
-For any queries or issues, feel free to contact me:
+For any queries, feel free to contact me:
 
 - **Email**: arifewucse2016@gmail.com
 - **GitHub**: https://github.com/Ariful2016/Weather-App-Compose.git
